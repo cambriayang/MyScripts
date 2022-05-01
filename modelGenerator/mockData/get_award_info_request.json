@@ -1,0 +1,16 @@
+{
+    "requestConf":{
+        "requestCode":"",
+        "requestPath":"/service/lumi/lottery/get-lottery-activity-v1",
+        "requestURL":"",
+        "requestParam":"",
+        "classPrefix":"LFXGetAwardInfo",
+        "requestType":"get",
+        "needLogin":1
+    },
+    "requestParam":{
+        "channel":"",
+        "activityCode":"",
+        "type":""
+    }
+}

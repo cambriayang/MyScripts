@@ -1,0 +1,15 @@
+{
+    "requestConf":{
+        "requestCode":"M3120",
+        "requestPath":"/service/private",
+        "requestURL":"",
+        "requestParam":"",
+        "classPrefix":"LFXGetAd",
+        "requestType":"post",
+        "needLogin":1
+    },
+    "requestParam":{
+        "requestCode":"",
+        "version":""
+    }
+}

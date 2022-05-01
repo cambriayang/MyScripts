@@ -1,0 +1,31 @@
+{
+    "code": "0000",
+    "subcode": "",
+    "message": "",
+    "lid": "29b86f28-f2be-4417-837d-1b4089f91512_135716878",
+    "result": {
+        "data": [{
+            "adNo": "NO-000036",
+            "data_sk": "90005",
+            "type": "IMAGE",
+            "showUrl": "https://static.lu.com/ads/ad/20174/0fa404ca-7dc9-4f65-b66f-8ccfb06d2e60.png",
+            "altContent": "老百万",
+            "clickUrl": "****",
+            "width":800,
+            "height":600,
+            "content":"content"   
+        },
+        {
+            "adNo": "NO-000036",
+            "data_sk": "90005",
+            "type": "IMAGE",
+            "showUrl": "https://static.lu.com/ads/ad/20174/0fa404ca-7dc9-4f65-b66f-8ccfb06d2e61.png",
+            "altContent": "老千万",
+            "clickUrl": "****",
+            "width":800,
+            "height":600,
+            "content":"content" 
+        }
+        ]
+    }
+}

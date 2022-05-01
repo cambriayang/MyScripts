@@ -1,0 +1,15 @@
+{
+    "requestConf":{
+        "requestCode":"",
+        "requestPath":"/service/points/check-in-achieve-rule-v1",
+        "requestURL":"",
+        "requestParam":"",
+        "classPrefix":"LFXSignIn",
+        "requestType":"post",
+        "needLogin":1
+    },
+    "requestParam":{
+        "ruleType":"",
+        "clientType":""
+    }
+}

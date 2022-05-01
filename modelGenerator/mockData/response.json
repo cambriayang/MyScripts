@@ -1,0 +1,31 @@
+{
+    "code": "0000",
+    "subcode": "",
+    "message": "",
+    "lid": "29b86f28-f2be-4417-837d-1b4089f91512_135716878",
+    "result": {
+        "quickEntries": {
+            "list": [
+                {
+                    "id": 1,
+                    "title": "人脉圈",
+                    "imagePath": "https://static.lufaxcdn.com/config/images/p2p_index/mobile/renmaiquan.png",
+                    "url": "lufax://webpage?url=https%3A%2F%2Fwww.playlu.com%2Fyuedu%2Fshow%2F45"
+                }
+            ]
+        },
+        "newMuseum": {
+            "title": "新品馆",
+            "moreTitle": "查看更多",
+            "moreLink": "lufax://webpage?url=https%3A%2F%2Fwww.playlu.com%2Fyuedu%2Fshow%2F45",
+            "list": [
+                {
+                    "title": "工资理财",
+                    "desc": "点滴积累,合理理财",
+                    "url": "lufax://webpage?url=https%3A%2F%2Fwww.playlu.com%2Fyuedu%2Fshow%2F45",
+                    "img": "https://static.lufaxcdn.com/config/images/p2p_index/mobile/gongzilicai.png"
+                }
+            ]
+        }
+    }
+}

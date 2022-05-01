@@ -1,0 +1,19 @@
+{
+    "requestConf":{
+        "requestCode":"",
+        "requestPath":"/service/lumi/lottery/send-lottery-request-v1",
+        "requestURL":"",
+        "requestParam":"",
+        "classPrefix":"LFXDrawAward",
+        "requestType":"post",
+        "needLogin":1
+    },
+    "requestParam":{
+        "activityCode":"",
+        "rid":"",
+        "ct":"",
+        "platform":"",
+        "agentVersion":"",
+        "sourceType":""
+    }
+}

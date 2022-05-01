@@ -1,0 +1,16 @@
+{
+    "requestConf":{
+        "requestCode":"",
+        "requestPath":"/service/discovery/info/list",
+        "requestURL":"",
+        "requestParam":"",
+        "classPrefix":"Discover",
+        "requestType":"get",
+        "needLogin":1
+    },
+    "requestParam":{
+        "pageSize":10,
+        "pageIndex":2,
+        "cookieUserName":"中文"
+    }
+}

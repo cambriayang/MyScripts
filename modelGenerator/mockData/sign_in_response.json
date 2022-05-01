@@ -1,0 +1,15 @@
+{
+    "code": "0000",
+    "subcode": "",
+    "message": "",
+    "result": {
+        "result": "04",
+        "sumPoints": "1",
+        "rewardPoints": "1",
+        "remainCheckInNum": "19",
+        "remainDayNum": "1",
+        "additivePoints": "22",
+        "maxPoints": "1",
+        "minPoints": "1"
+    }
+}

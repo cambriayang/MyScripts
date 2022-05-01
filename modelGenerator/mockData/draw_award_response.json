@@ -1,0 +1,48 @@
+{
+    "code": "0000",
+    "subcode": "",
+    "message": "",
+    "result": {
+      "result":"00",
+      "data": {
+          "loginStatus":true,
+          "userPoint":9999829,
+          "freeLotteryTime":0,
+          "activityStatus":0,
+          "lotteryWinningList": {
+              "lotteryCount":4,
+              "lotteryWinningDetailList": [
+                   {
+                      "id":3904,
+                      "userName":"ne***pt",
+                      "productName":"陆米"
+                  },
+                   {
+                      "id":3901,
+                      "userName":"sh***03",
+                      "productName":"实物"
+                  },
+                   {
+                      "id":3904,
+                      "userName":"sh***03",
+                      "productName":"陆米"
+                  },
+                   {
+                      "id":3904,
+                      "userName":"sh***03",
+                      "productName":"陆米"
+                  }
+              ]
+          },
+          "lotteryProduct": {
+              "id":3904,
+              "productType":"LUMI",
+              "productDisplayImage":"https://static.lufaxcdn.com/product_image/LOTTERYPROD78F58D5AB185360E2F433/LOTTERYPROD78F58D5AB185360E2F433.jpg",
+              "position":4,
+              "productDisplayName":"陆米"
+          },
+          "orderCode":"0001396782",
+          "activityChannel":"NORMAL"
+      }
+    }
+  }

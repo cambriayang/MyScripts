@@ -1,0 +1,100 @@
+{
+  "code": "0000",
+  "subcode": "",
+  "message": "",
+  "result": {
+    "code": "00",
+    "data": {
+        "loginStatus": true,
+        "userPoint": 5565,
+        "freeLotteryTime": 0,
+        "lotteryActivity": {
+            "activityId": 4401,
+            "activityCode": "LOTTERY87F6938933E2C118910555E74",
+            "lotteryCost": 0,
+            "lotteryProducts": [
+            {
+                "id": 4801,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPRODFAB3287A4A37303BAE738/LOTTERYPRODFAB3287A4A37303BAE738.jpg",
+                "position": 1,
+                "productId": 28337,
+                "productDisplayName": "陆米1",
+                "productName": "AUTOTEST_PRODUCT_ilb9my"
+            },
+            {
+                "id": 4802,
+                "productType": "NONE",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPROD3A0FDBE8B1F07565C6581/LOTTERYPROD3A0FDBE8B1F07565C6581.jpg",
+                "position": 2,
+                "productId": 0,
+                "productDisplayName": "未中奖"
+            },
+            {
+                "id": 4803,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPROD74396C6F0E5399DB45575/LOTTERYPROD74396C6F0E5399DB45575.jpg",
+                "position": 3,
+                "productId": 28338,
+                "productDisplayName": "陆米2",
+                "productName": "AUTOTEST_PRODUCT_7546m8"
+            },
+            {
+                "id": 4804,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPRODBC18097D0714B85920AAF/LOTTERYPRODBC18097D0714B85920AAF.jpg",
+                "position": 4,
+                "productId": 28342,
+                "productDisplayName": "陆米3",
+                "productName": "AUTOTEST_PRODUCT_zafysl"
+            },
+            {
+                "id": 4805,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPROD0F18B5DCEDC37C139B923/LOTTERYPROD0F18B5DCEDC37C139B923.jpg",
+                "position": 5,
+                "productId": 28336,
+                "productDisplayName": "陆米4",
+                "productName": "AUTOTEST_PRODUCT_ri2p9w"
+            },
+            {
+                "id": 4806,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPROD5BEF833B2E93375EAD3DE/LOTTERYPROD5BEF833B2E93375EAD3DE.jpg",
+                "position": 6,
+                "productId": 26736,
+                "productDisplayName": "陆米5",
+                "productName": "拍卖测试1_2jqmo0"
+            },
+            {
+                "id": 4807,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPRODAA8D668644656D07DEE62/LOTTERYPRODAA8D668644656D07DEE62.jpg",
+                "position": 7,
+                "productId": 28339,
+                "productDisplayName": "陆米6",
+                "productName": "AUTOTEST_PRODUCT_3apfjx"
+            },
+            {
+                "id": 4808,
+                "productType": "LUMI",
+                "productDisplayImage": "https://static.lufaxcdn.com/product_image/LOTTERYPROD838DC82CDAC99065B3F25/LOTTERYPROD838DC82CDAC99065B3F25.jpg",
+                "position": 8,
+                "productId": 16940,
+                "productDisplayName": "陆米7",
+                "productName": "AUTOTEST_PRODUCT_yyulw5"
+            }
+            ],
+        "activityRule": "LOTTERY87F6938933E2C118910555E74/LOTTERY87F6938933E2C118910555E74.vm",
+        "bannerImage": "https://static.lufaxcdn.com/product_image/LOTTERYBAN7E59834B9DB888B59BCBE0/LOTTERYBAN7E59834B9DB888B59BCBE0.jpg",
+        "bannerBgImage": "https://static.lufaxcdn.com/product_image/LOTTERYBANBGF98C46A5535B855F261B/LOTTERYBANBGF98C46A5535B855F261B.jpg",
+        "totalCount": -1,
+        "dayCount": 3,
+        "shareTitle": "9月签到",
+        "shareImage": "https://static.lufaxcdn.com/product_image/LOTTERYSHAREEC2A0C0086F155DE6A6A/LOTTERYSHAREEC2A0C0086F155DE6A6A.jpg",
+        "channel": "SIGNIN"
+        },
+    "activityStatus": 0
+    }
+  }
+}
